@@ -1,4 +1,4 @@
-# Image Acquisition Using Web Camera
+# EXP-2-Record-Image Acquisition using Web Camera
 
 ## Experiment Details
 
